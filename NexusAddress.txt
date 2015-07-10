@@ -1,4 +1,4 @@
-WorkingDate = 2015-07-10 - 国服Patch-2.5
+WorkingDate = 2015-07-10 - CN Patch-2.5
 
 
 InventoryAddress = 0x1114230, 0x0
