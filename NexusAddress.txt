@@ -1,7 +1,7 @@
-WorkingDate = 1/24/2015 - Patch 2.55
+WorkingDate = 2015-07-10 - 国服Patch-2.5
 
 
-InventoryAddress = 0x10BD070, 0x0
+InventoryAddress = 0x1114230, 0x0
 
 EquippedWeaponIDOffset = 0x1988
 
