@@ -1,4 +1,4 @@
-WorkingDate = 1/21/2015 - Patch 2.5
+WorkingDate = 1/21/2015 - Patch 2.5-1
 
 
 InventoryAddress = 0x1115230, 0x0
