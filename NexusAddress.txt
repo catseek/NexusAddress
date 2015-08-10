@@ -1,7 +1,7 @@
-WorkingDate = 2015-08-08 - CN Patch-2.51
+WorkingDate = 2015-08-10 18:13 - CN Patch-2.51
 
 
-InventoryAddress = 0x1115230, 0x0
+InventoryAddress = 0x1114230, 0x0
 
 EquippedWeaponIDOffset = 0x1988
 
