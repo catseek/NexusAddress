@@ -1,7 +1,7 @@
-WorkingDate = 2015-11-22 9:45 - CN Patch-3.01-debug
+WorkingDate = 4/01/2016 - Patch 3.1 - CN
 
 
-InventoryAddress = 0x010340F8, 0x0
+InventoryAddress = 0x0F90CC60, 0x0
 
 EquippedWeaponIDOffset = 0x1988
 
