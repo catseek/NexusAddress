@@ -1,7 +1,7 @@
 WorkingDate = 4/05/2016 - Patch 3.1 - CN
 
 
-InventoryAddress = 0x0103C7EC, 0x40, 0x8
+InventoryAddress = 0x01036668, 0x0
 
 EquippedWeaponIDOffset = 0x1988
 
