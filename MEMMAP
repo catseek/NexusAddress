@@ -3,7 +3,7 @@
   <ItemSetPointer>
     <BaseAddressOffset>17771340</BaseAddressOffset>
     <Offsets>
-      <int>40</int>
+      <int>64</int>
       <int>0</int>
     </Offsets>
   </ItemSetPointer>
