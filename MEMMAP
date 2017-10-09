@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <FFXIVMemoryMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ItemSetPointer>
-    <BaseAddressOffset>17771340</BaseAddressOffset>
+    <BaseAddressOffset>2417276</BaseAddressOffset>
     <Offsets>
-      <int>40</int>
+      <int>728</int>
       <int>0</int>
     </Offsets>
   </ItemSetPointer>
